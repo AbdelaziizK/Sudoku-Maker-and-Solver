@@ -33,13 +33,16 @@ Inserting a Sudoku to get it solved
 ### Prerequisites
 You only need Python 3 installed to use Sudoku maker and solver.
 ### How?
-Instruction for how to clone down the repo locally and run the project.
 Simply from the command line navigate to the directory where you want to save it to and clone down the repository using
-`git clone https://github.com/AbdelaziizK/Sudoku-Maker-and-Solver/`
+```bash
+git clone https://github.com/AbdelaziizK/Date-of-Birth-Guesser-and-age-calculator/
+```
 
 ## Usage
 You just need to run UseSudoku code and there you go!
-`python UseSudoku.py`
+```python
+python UseSudoku.py
+```
 It'll handle all your choices. Whether you want a Sudoku puzzle or you want a solved one (why you want a solved one? Anyway....) or you want a Sudoku puzzle with it's solution or you want it to solve one you already have!
 
 ## Contribution
