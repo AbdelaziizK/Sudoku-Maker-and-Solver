@@ -68,4 +68,6 @@ while True:
 			
 			print('== Your Sudoku [Solved] ==')
 			print(Sudoku.shape(solved_sudoku_list))
+	elif option == 5:
+		exit()
 
